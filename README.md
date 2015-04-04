@@ -1,1 +1,3 @@
 # .vimserver
+
+It's not a revo depot! Just a gain of time to install Nerdtree 4 VIM on any server in the CLOUD...
